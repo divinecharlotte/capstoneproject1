@@ -41,7 +41,7 @@ git clone git@github.com:divinecharlotte/divnecharlotte.github.io.git
 
 ## Live Demo
 
-- See [Live Demo]().
+- See [Live Demo](https://divinecharlotte.github.io/capstoneproject1/).
 
 ## Deployment
 
